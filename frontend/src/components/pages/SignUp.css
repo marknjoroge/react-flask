@@ -1,0 +1,28 @@
+.form-container {
+  display: block;
+  margin: 0 auto;
+  width: 500px;
+  background-color: red;
+  padding: 50px;
+  align-items: center;
+}
+
+form {
+  box-sizing: border-box;
+}
+
+input {
+  display: block;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+button {
+  margin-top: 5px;
+}
+
+label {
+  display: block;
+  margin-top: 10px;
+  margin-bottom: 5px;
+}
